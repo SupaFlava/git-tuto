@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+body{
+        background-color: #F9FBFD;
+        
+}
+
+nav{
+ 
+    position: sticky;
+    padding: 4rem;
+    color: #02073E;
+}
+.navbar-brand{
+    margin-right: 10em !important;
+}
+.btn{
+    border: 2px solid #8d448b;
+    border-radius: 5px;
+    color: #8d448b;
+    font-weight: 500;
+    padding: 1rem;
+    cursor: pointer;
+    line-height: 1.2;
+    transition: 400ms;
+   
+}
+.btn:hover{
+ background-color: #8d448b;
+ color: #fff;
+ border-color: #8d448b;
+}
+.nav-link{
+    color: #02073E !important;
+    
+}
+.nav-item{
+    margin-left: 2rem;
+    font-weight: 200;
+}
+.nav-link:hover{
+    color: #8d448b !important;
+
+}
+#banner{
+    margin-top: 8em;
+}
+img{
+    max-width: fit-content;
+    width: 50rem;
+    height: 30rem;
+
+}
