@@ -1,16 +1,21 @@
 *{
     box-sizing: border-box;
 }
-body{
-        background-color: #F9FBFD;
+/* body{
+    background-color: #F9FBFD;
         
-}
+} */
+.main-container{
+    background-color: #F9FBFD;
 
+
+}
 nav{
  
     position: sticky;
     padding: 4rem;
     color: #02073E;
+    
 }
 .navbar-brand{
     margin-right: 10em !important;
@@ -51,4 +56,35 @@ img{
     width: 50rem;
     height: 30rem;
 
+}
+.input-group{
+    margin-top: 2rem;
+    
+    
+   
+}
+.sub{
+    margin-left: 3rem !important;
+
+}
+.input-search{
+    padding-right: 5rem !important;
+    border: none;
+}
+.img-pay{
+    max-width: fit-content;
+    width: 100px;
+    height: 28px;
+}
+.spans{
+    display: flex;
+    justify-content: space-between;
+}
+.mid-logo{
+    margin-right: 3rem;
+    width: 80px;
+    height: 80px;
+}
+.fa{
+    width: 10rem;
 }

@@ -1,0 +1,19 @@
+<div id="banner">
+      <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+          <h1 class="display-1 mt-5">Great software is built with amazing developers</h1>
+          <p class="lead">We help build and manage a team of world-class developers to bring your vision to life</p>
+          <div class="input-group">
+            <input type="search" class="input col-xs-4 rounded" placeholder="Subscribe newsletter" aria-label="Search" aria-describedby="search-addon"  />
+            <a type="button" class="btn sub">Subscribe</a>
+        </div>
+        </div>
+        <div class="col">
+            <img class="rounded " src="./img/banner-image-1-1.png">
+        </div>
+    </div>
+</div>
+</div>
+</div>
